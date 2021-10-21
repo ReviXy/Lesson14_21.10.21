@@ -7,7 +7,7 @@ begin
     Result := false;
 end;
 
-
+function SecondsInMinute: integer := 60;
 
 begin
   
