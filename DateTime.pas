@@ -22,6 +22,12 @@ begin
   //Placeholder...
 end;
 
+function SecondsInHours(a: integer): integer;
+begin
+  //Placeholder...
+end;
+
+
 begin
   
 end.
