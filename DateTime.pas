@@ -12,6 +12,11 @@ begin
   //Placeholder...
 end;
 
+function DaysInYear(a: DateTime): Integer;
+begin
+  //Placeholder...
+end;
+
 begin
   
 end.
